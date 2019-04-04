@@ -27,7 +27,7 @@
 	The datasets were loaded into two distinct collections wihtin a Mongo database (NoSQL) via pymongo.  This data will be maintained locally, so that further analysis can be conducted on it in the future.  
 
 * **Visualization**: <br>
-Visualizations can be viewed in this [website](Scooter_visualization/templates/index.html)
+Visualizations can be viewed in this [website](http://htmlpreview.github.io/?https://github.com/amselhag/Project2_Scooter_vis/blob/master/Scooter_visualization/templates/index.html)
 
 	
 <hr><br>
