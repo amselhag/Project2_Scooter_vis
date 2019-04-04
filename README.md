@@ -1,7 +1,7 @@
 # project-2-dockless-vs-weather
 <h1 align=center> Austin, Texas Dockless Vehicle Study </h1> <br>
 
-![Dockless Scooter](http://s79f01z693v3ecoes3yyjsg1.wpengine.netdna-cdn.com/wp-content/uploads/2018/03/sf.Bird_.0307.jpg) <br>
+![Dockless Scooter](images.jpg) <br>
 
 ### Project Members:
 #### Petros Paterakis, Michael Alrafati, Mounica Pokala, Amro Elhag, Becky Bobba
@@ -25,6 +25,11 @@
   <br>
 * **Loading**: <br>
 	The datasets were loaded into two distinct collections wihtin a Mongo database (NoSQL) via pymongo.  This data will be maintained locally, so that further analysis can be conducted on it in the future.  
+
+* **Visualization**: <br>
+Visualizations can be viewed in this [website](Scooter_visualization/templates/index.html)
+
+	
 <hr><br>
 
 ### Other Information: <br>
